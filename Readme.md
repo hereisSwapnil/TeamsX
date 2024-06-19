@@ -16,6 +16,10 @@ An employee searching application where user can search an employee with name, e
 
 ## Screenshots
 
+![image](https://github.com/hereisSwapnil/TeamsX/assets/85278243/e893584d-4ec4-4162-a4e7-efe6da2bb477)
+![image](https://github.com/hereisSwapnil/TeamsX/assets/85278243/ecce0944-e04f-465f-8035-af45b1cdb8c8)
+
+
 ## Tech Stack
 
 1. **Frontend**: React.js
